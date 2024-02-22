@@ -175,6 +175,7 @@
     height: 100%;
     min-height: 563px;
     object-fit: cover;
+    display: block;
 }
 
 .card__title {
